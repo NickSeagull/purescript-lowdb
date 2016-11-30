@@ -1,0 +1,28 @@
+{
+  "name": "purescript-lowdb",
+  "version": "0.0.1",
+  "description": "A simple database for Purescript",
+  "main": "dist/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "pulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickSeagull/purescript-lowdb.git"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "Nikita Tchayka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickSeagull/purescript-lowdb/issues"
+  },
+  "homepage": "https://github.com/NickSeagull/purescript-lowdb#readme",
+  "dependencies": {
+    "lowdb": "^0.14.0"
+  }
+}
