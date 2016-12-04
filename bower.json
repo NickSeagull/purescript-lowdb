@@ -1,5 +1,5 @@
 {
-  "name": "purescript-simple-db",
+  "name": "purescript-lowdb",
   "ignore": [
     "**/.*",
     "node_modules",
